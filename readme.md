@@ -2,6 +2,10 @@
 
 This is a boilerplate that you can use to self-publish books on Epub. In addition to that, you'll get outputs in all possible formats that you can distribute anywhere, including the Amazon Kindle.
 
+## Usage
+
+Check out this [intro video](https://www.youtube.com/watch?v=raPP4A-1gF4&feature=youtu.be) to learn how to use the tool.
+
 ## Requirements
 
 - node > 0.12.0 (you use [nvm](https://github.com/creationix/nvm) to manage your node versions)
