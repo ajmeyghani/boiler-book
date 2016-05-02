@@ -4,7 +4,7 @@ This is a boilerplate that you can use to self-publish books on Epub. In additio
 
 ## Usage
 
-Check out this [intro video](https://www.youtube.com/watch?v=raPP4A-1gF4&feature=youtu.be) to learn how to use the tool.
+Check out this [intro video](https://www.youtube.com/watch?v=raPP4A-1gF4&feature=youtu.be) to learn how to use the tool
 
 ## Requirements
 
