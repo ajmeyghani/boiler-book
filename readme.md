@@ -33,7 +33,7 @@ Check out this [intro video](https://www.youtube.com/watch?v=raPP4A-1gF4&feature
     $ curl -L http://astefanutti.github.io/decktape/downloads/phantomjs-linux-debian8-x86-64 -o bin/phantomjs
     ```
 
-- [LaTeX](http://miktex.org/download) (for building pdf)
+- [LaTeX](http://miktex.org/download) (for building pdf) or [basic tex (mac)](http://www.tug.org/mactex/morepackages.html)
 
 
 ## Configuration Files
