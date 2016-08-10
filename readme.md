@@ -34,6 +34,7 @@ Check out this [intro video](https://www.youtube.com/watch?v=raPP4A-1gF4&feature
     ```
 
 - [LaTeX](http://miktex.org/download) (for building pdf) or [basic tex (mac)](http://www.tug.org/mactex/morepackages.html)
+- [xelatex](http://www.texts.io/support/0001/) (might not need it for windows)
 
 
 ## Configuration Files
