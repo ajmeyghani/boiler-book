@@ -2,7 +2,7 @@
 # build the book for leanpub and the folder structure
 # that it expects.
 rm -rf manuscript
-bookly concat
+bookly2 concat
 cp -r output/manuscript manuscript
 cp book-lean.txt manuscript/book.txt
 cp -r images manuscript/images

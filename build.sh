@@ -11,8 +11,8 @@ mkdir -p images
 find -E chapters -regex ".*\.(jpg|gif|png|jpeg)" -exec cp {} ./output/images/ \;
 find -E chapters -regex ".*\.(jpg|gif|png|jpeg)" -exec cp {} ./images/ \;
 # build
-bookly build -e
-bookly build -a
+bookly2 build -e
+bookly2 build -a
 # bookly build -r # building with phatnoms
 
 # convert to pdf with electron.

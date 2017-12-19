@@ -10,7 +10,7 @@ Check out this [intro video](https://www.youtube.com/watch?v=raPP4A-1gF4&feature
 
 - node > 0.12.0 (you use [nvm](https://github.com/creationix/nvm) to manage your node versions)
 
-- Electron-pdf, bookly: `npm i electron-pdf bookly -g`
+- Electron-pdf, bookly: `npm i electron-pdf bookly2 -g`
 
 - [Pandoc](http://pandoc.org/installing.html)
 
